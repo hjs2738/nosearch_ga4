@@ -58,26 +58,8 @@ https://templatemo.com/tm-559-zay-shop
 
 	<!-- 기능설명 -->
 	<div>
-		<img src="./assets/img/massage_function00.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function01.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function02.jpg" class="img_light" alt=""></a>
-
-		<img src="./assets/img/massage_function0.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function1.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function2.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function3.jpg" class="img_light" alt=""></a>
-	</div>
-	<!-------------------------->
-
-	<!-- 종합 평가 추가 -->
-	<div>
-		<img src="./assets/img/massage_evaluate.jpg" class="img_evaluate" alt=""></a>
-	</div>
-	<!-------------------------->
-
-	<!-- 스펙 설명 -->
-	<div>
-		<img src="./assets/img/massage_spce.jpg" class="img_spec" alt=""></a>
+		<img src="./assets/img/brand.png" class="img_function" alt="">
+		<img src="./assets/img/brand_write.jpg" class="img_function" onclick="alert('리뷰쓰기 완료')" alt="">
 	</div>
 	<!-------------------------->
 	

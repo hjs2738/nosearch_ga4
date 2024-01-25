@@ -56,28 +56,32 @@ https://templatemo.com/tm-559-zay-shop
     </nav>
     <!-- Close Header -->
 
+	<!-- 구매 상단 화면 -->
+	<div class="itemouter">
+		<div class="itemouter_left">
+			<img src="./assets/img/kitchen_main.jpg">			
+		</div>
+		<div class="itemouter_right">
+			<img src="./assets/img/kitchen_intro.jpg">		
+			<a href=""><img src="./assets/img/add_cart.jpg" class="add_cart" onclick="alert('장바구니 담기 완료')" alt=""></a>
+			<a href=""><img src="./assets/img/add_buy.jpg" class="add_buy" onclick="alert('바로구매 하기 완료')" alt=""></a>		
+		</div>
+	</div>	
+	<!-------------------------->
+
+	<!-- 카카오 채널 추가 -->
+	<div>
+		<a href="#"><img src="./assets/img/kakao_ch.jpg" class="kakao_add_ch" onclick="alert('카카오 채널 추가 완료')" alt=""></a>
+	</div>
+	<!-------------------------->
+
 	<!-- 기능설명 -->
-	<div>
-		<img src="./assets/img/massage_function00.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function01.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function02.jpg" class="img_light" alt=""></a>
-
-		<img src="./assets/img/massage_function0.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function1.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function2.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function3.jpg" class="img_light" alt=""></a>
-	</div>
-	<!-------------------------->
-
-	<!-- 종합 평가 추가 -->
-	<div>
-		<img src="./assets/img/massage_evaluate.jpg" class="img_evaluate" alt=""></a>
-	</div>
-	<!-------------------------->
-
-	<!-- 스펙 설명 -->
-	<div>
-		<img src="./assets/img/massage_spce.jpg" class="img_spec" alt=""></a>
+	<div class="nosearch_light">
+		<img src="./assets/img/kitchen_function0.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/kitchen_function1.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/kitchen_function2.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/kitchen_function3.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/kitchen_function4.jpg" class="img_function" alt=""></a>
 	</div>
 	<!-------------------------->
 	

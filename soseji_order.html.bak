@@ -28,7 +28,7 @@ https://templatemo.com/tm-559-zay-shop
 
 <body >
 
-    <!-- Header -->
+     <!-- Header -->
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
@@ -44,10 +44,10 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="flex-fill">
                     <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
 			            <li class="nav-item">
-                            <a class="nav-link" href="index.html">Store</a>
+                            <a class="nav-link" href="index.html">스토어</a>
                         </li> 
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">Purchase</a>
+                            <a class="nav-link" href="about.html">구매가이드</a>
                         </li>
                     </ul>
                 </div>
@@ -56,28 +56,28 @@ https://templatemo.com/tm-559-zay-shop
     </nav>
     <!-- Close Header -->
 
-	<!-- 기능설명 -->
-	<div>
-		<img src="./assets/img/massage_function00.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function01.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function02.jpg" class="img_light" alt=""></a>
-
-		<img src="./assets/img/massage_function0.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function1.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function2.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function3.jpg" class="img_light" alt=""></a>
-	</div>
-	<!-------------------------->
-
 	<!-- 종합 평가 추가 -->
 	<div>
-		<img src="./assets/img/massage_evaluate.jpg" class="img_evaluate" alt=""></a>
+		<img src="./assets/img/soseji_evaluate.jpg" class="img_evaluate" alt=""></a>
 	</div>
 	<!-------------------------->
 
 	<!-- 스펙 설명 -->
 	<div>
-		<img src="./assets/img/massage_spce.jpg" class="img_spec" alt=""></a>
+		<img src="./assets/img/soseji_spce.jpg" class="img_spec" alt=""></a>
+	</div>
+	<!-------------------------->
+
+	<!-- 기능설명 -->
+	<div>
+		<img src="./assets/img/soseji_function00.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/soseji_function01.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/soseji_function02.jpg" class="img_function" alt=""></a>
+
+		<img src="./assets/img/soseji_function0.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/soseji_function1.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/soseji_function2.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/soseji_function3.jpg" class="img_function" alt=""></a>
 	</div>
 	<!-------------------------->
 	

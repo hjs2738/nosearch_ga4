@@ -44,10 +44,10 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="flex-fill">
                     <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
 			            <li class="nav-item">
-                            <a class="nav-link" href="index.html">Store</a>
+                            <a class="nav-link" href="index.html">스토어</a>
                         </li> 
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">Purchase</a>
+                            <a class="nav-link" href="about.html">구매가이드</a>
                         </li>
                     </ul>
                 </div>
@@ -58,30 +58,20 @@ https://templatemo.com/tm-559-zay-shop
 
 	<!-- 기능설명 -->
 	<div>
-		<img src="./assets/img/massage_function00.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function01.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function02.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function00.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function01.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function02.jpg" class="img_light" alt=""></a>
 
-		<img src="./assets/img/massage_function0.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function1.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function2.jpg" class="img_light" alt=""></a>
-		<img src="./assets/img/massage_function3.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function03.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function04.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function05.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function06.jpg" class="img_light" alt=""></a>
+		<img src="./assets/img/gunjogi_function07.jpg" class="img_light" alt=""></a>
 	</div>
-	<!-------------------------->
 
-	<!-- 종합 평가 추가 -->
-	<div>
-		<img src="./assets/img/massage_evaluate.jpg" class="img_evaluate" alt=""></a>
-	</div>
+	<iframe class="gunjogi_youtube1" width="560" height="315"  src="https://www.youtube.com/embed/mCgD_0qPSiE?si=CbygeeR0fhSPq9UC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<iframe class="gunjogi_youtube2" width="560" height="315" src="https://www.youtube.com/embed/LiSiz_cOuQk?si=SagnE8KTfXNMbI_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	<!-------------------------->
-
-	<!-- 스펙 설명 -->
-	<div>
-		<img src="./assets/img/massage_spce.jpg" class="img_spec" alt=""></a>
-	</div>
-	<!-------------------------->
-	
- 
 
     <!-- 슬라이드 시간조정 X={interval:3e3 -->
     <script src="assets/js/bootstrap.bundle.min.js"></script>
