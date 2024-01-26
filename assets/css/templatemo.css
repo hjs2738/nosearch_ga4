@@ -927,3 +927,15 @@ svg {
   color: #ffffff !important;
   text-align: center
 }
+
+.purchase_img{ 
+  position: relative;
+  width: 80%;
+  height: auto;   
+}
+
+.intro_img{ 
+  position: relative;
+  width: 100%;
+  height: auto;   
+}

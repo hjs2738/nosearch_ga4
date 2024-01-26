@@ -59,12 +59,12 @@ https://templatemo.com/tm-559-zay-shop
 	<!-- 구매 상단 화면 -->
 	<div class="itemouter">
 		<div class="itemouter_left">
-			<img src="./assets/img/cucu_main.jpg">			
+			<img src="./assets/img/air_main.jpg">			
 		</div>
 		<div class="itemouter_right">
-			<img src="./assets/img/cucu_intro.jpg">		
-			<a href=""><img src="./assets/img/add_cart.jpg" class="add_cart" onclick="alert('cart completed')" alt=""></a>
-			<a href=""><img src="./assets/img/add_buy.jpg" class="add_buy" onclick="alert('purchase completed')" alt=""></a>
+			<img src="./assets/img/air_intro.jpg">		
+			<a href=""><img src="./assets/img/add_cart.jpg" class="add_cart" onclick="alert('장바구니 담기 완료')" alt=""></a>
+			<a href=""><img src="./assets/img/add_buy.jpg" class="add_buy" onclick="alert('바로구매 하기 완료')" alt=""></a>		
 		</div>
 	</div>	
 	<!-------------------------->
@@ -75,12 +75,9 @@ https://templatemo.com/tm-559-zay-shop
 	</div>
 	<!-------------------------->
 
-	<iframe class="cucu_youtube" width="550" height="315" src="https://www.youtube.com/embed/BFgJl7r2w60?si=qj_Ole6oTgPMA3vG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 	<!-- 기능설명 -->
 	<div>
-		<img src="./assets/img/cucu_function.jpg" class="img_function" alt=""></a>
-		<img src="./assets/img/cucu_function2.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/air_function.jpg" class="img_function" alt=""></a>
 	</div>
 	<!-------------------------->
 	
