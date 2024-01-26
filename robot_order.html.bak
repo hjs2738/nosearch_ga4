@@ -62,7 +62,7 @@ https://templatemo.com/tm-559-zay-shop
 			<img src="./assets/img/robot_main.jpg" class="purchase_img">		
 		</div>
 		<div class="itemouter_right">
-			<img src="./assets/img/robot_intro.jpg" class="intro_img">		
+			<img src="./assets/img/robot_intro.jpg">		
 			<a href=""><img src="./assets/img/add_cart.jpg" class="add_cart" onclick="alert('cart completed')" alt=""></a>
 			<a href=""><img src="./assets/img/add_buy.jpg" class="add_buy" onclick="alert('purchase completed')" alt=""></a>			
 		</div>
