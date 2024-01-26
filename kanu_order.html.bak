@@ -59,12 +59,12 @@ https://templatemo.com/tm-559-zay-shop
 	<!-- 구매 상단 화면 -->
 	<div class="itemouter">
 		<div class="itemouter_left">
-			<img src="./assets/img/cucu_main.jpg" class="purchase_img">				
+			<img src="./assets/img/kanu_main.jpg" class="purchase_img">			
 		</div>
 		<div class="itemouter_right">
-			<img src="./assets/img/cucu_intro.jpg">		
+			<img src="./assets/img/kanu_intro.jpg">		
 			<a href=""><img src="./assets/img/add_cart.jpg" class="add_cart" onclick="alert('cart completed')" alt=""></a>
-			<a href=""><img src="./assets/img/add_buy.jpg" class="add_buy" onclick="alert('purchase completed')" alt=""></a>
+			<a href=""><img src="./assets/img/add_buy.jpg" class="add_buy" onclick="alert('purchase completed')" alt=""></a>			
 		</div>
 	</div>	
 	<!-------------------------->
@@ -72,15 +72,28 @@ https://templatemo.com/tm-559-zay-shop
 	<!-- 카카오 채널 추가 -->
 	<div>
 		<a href="#"><img src="./assets/img/kakao_ch.jpg" class="kakao_add_ch" onclick="alert('kakao completed')" alt=""></a>
+
 	</div>
 	<!-------------------------->
 
-	<iframe class="cucu_youtube" width="550" height="315" src="https://www.youtube.com/embed/BFgJl7r2w60?si=qj_Ole6oTgPMA3vG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<iframe class="kanu_youtube" width="550" height="315" src="https://www.youtube.com/embed/H8DPnDbh6rY?si=rqW_b7pmP7ddbQgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+	<!-- 종합 평가 추가 -->
+	<div>
+		<img src="./assets/img/kanu_evaluate.jpg" class="img_evaluate" alt=""></a>
+	</div>
+	<!-------------------------->
+
+	<!-- 스펙 설명 -->
+	<div>
+		<img src="./assets/img/kanu_spce.jpg" class="img_spec" alt=""></a>
+	</div>
+	<!-------------------------->
 
 	<!-- 기능설명 -->
 	<div>
-		<img src="./assets/img/cucu_function.jpg" class="img_function" alt=""></a>
-		<img src="./assets/img/cucu_function2.jpg" class="img_function" alt=""></a>
+		<img src="./assets/img/kanu_function.jpg" class="img_function" alt=""></a>
 	</div>
 	<!-------------------------->
 	

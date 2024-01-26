@@ -741,15 +741,15 @@ svg {
   background-color: #ffffff;
   position: relative;
   margin-top:30px;
-  width: 50%;
-  height: auto;
   margin-left:30%;
-
+  width: 60%;
+  height: auto;
 }
 
 .review_img{
-  width: auto;
-  height: auto;
+  position: relative;
+  width: 30%;
+  height: auto;  
 }
 
 .itemouter{
